@@ -17,6 +17,8 @@ dependencies {
     implementation group: 'org.postgresql', name: 'postgresql', version: '42.6.0'
     // https://mvnrepository.com/artifact/org.json/json
     implementation group: 'org.json', name: 'json', version: '20230227'
+    implementation 'org.mindrot:jbcrypt:0.4'
+
 
 }
 
