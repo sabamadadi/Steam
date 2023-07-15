@@ -7,6 +7,10 @@
 
 ## Introduction
 
+Eighth Assignment of Advanced Programming course at Shahid Beheshti University (Spring 2023)
+
+Score: 110 out of 100
+
 In this assignment you are tasked with creating a Java application designed to handle the management and download of video game data, similar to Steam. Steam is an online platform that distributes video games in a digital format. 
 - The application you will develop is simpler in design. It doesn't need to have many of the features available in Steam, such as the ability to purchase or trade video games.
 
